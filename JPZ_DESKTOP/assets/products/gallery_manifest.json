@@ -1,0 +1,1327 @@
+[
+  {
+    "code": "VBG-01",
+    "name": "VOID BAGGY 01",
+    "color": "dark_indigo",
+    "fit": "baggy",
+    "style": "clean",
+    "path": "assets/products/VBG-01_dark_indigo_styled.png",
+    "outfit": "cream cropped bomber jacket over a white crew-neck tee, white low-profile sneakers",
+    "poses": [
+      "standing with weight on one leg and thumb hooked at waistband",
+      "looking over shoulder while taking a small step away"
+    ]
+  },
+  {
+    "code": "VBG-01",
+    "name": "VOID BAGGY 01",
+    "color": "washed_blue",
+    "fit": "baggy",
+    "style": "clean",
+    "path": "assets/products/VBG-01_washed_blue_styled.png",
+    "outfit": "sage short-sleeve camp-collar shirt open over an ivory ribbed tank, cream canvas sneakers",
+    "poses": [
+      "mid-stride walking toward camera with shirt moving naturally",
+      "turning at the hips with one heel raised and arms relaxed"
+    ]
+  },
+  {
+    "code": "RBG-02",
+    "name": "RIPPED BAGGY 02",
+    "color": "washed_blue",
+    "fit": "baggy",
+    "style": "ripped",
+    "path": "assets/products/RBG-02_washed_blue_styled.png",
+    "outfit": "burgundy and ivory striped rugby shirt, off-white retro sneakers",
+    "poses": [
+      "seated on a low cube, knees comfortably apart, hems fully visible",
+      "standing rear three-quarter with one hand resting on hip"
+    ]
+  },
+  {
+    "code": "RBG-02",
+    "name": "RIPPED BAGGY 02",
+    "color": "dark_indigo",
+    "fit": "baggy",
+    "style": "ripped",
+    "path": "assets/products/RBG-02_dark_indigo_styled.png",
+    "outfit": "charcoal sleeveless textured knit top with silver chain, gray skate shoes",
+    "poses": [
+      "leaning a shoulder lightly against a studio wall, legs offset",
+      "walking away with arms swinging and head turned"
+    ]
+  },
+  {
+    "code": "RST-03",
+    "name": "RAW STRAIGHT 03",
+    "color": "raw_indigo",
+    "fit": "straight",
+    "style": "raw",
+    "path": "assets/products/RST-03_raw_indigo_styled.png",
+    "outfit": "white Oxford button-down with rolled sleeves and brown leather loafers",
+    "poses": [
+      "standing upright, sleeves being adjusted, one foot forward",
+      "rear three-quarter standing with hands loosely clasped behind"
+    ]
+  },
+  {
+    "code": "RST-03",
+    "name": "RAW STRAIGHT 03",
+    "color": "black",
+    "fit": "straight",
+    "style": "raw",
+    "path": "assets/products/RST-03_black_styled.png",
+    "outfit": "camel fine-gauge crew-neck knit, dark brown Chelsea boots",
+    "poses": [
+      "seated on the edge of a tall stool with one foot on rung",
+      "turning from side profile to rear three-quarter"
+    ]
+  },
+  {
+    "code": "BSK-04",
+    "name": "BLACK SKINNY 04",
+    "color": "black",
+    "fit": "skinny",
+    "style": "clean",
+    "path": "assets/products/BSK-04_black_styled.png",
+    "outfit": "fitted ivory long-sleeve Henley, black leather ankle boots",
+    "poses": [
+      "standing angled with one hand in front pocket and other relaxed",
+      "rear side angle with a slight torso turn"
+    ]
+  },
+  {
+    "code": "BSK-04",
+    "name": "BLACK SKINNY 04",
+    "color": "dark_indigo",
+    "fit": "skinny",
+    "style": "clean",
+    "path": "assets/products/BSK-04_dark_indigo_styled.png",
+    "outfit": "slate blue fitted polo shirt, white minimalist leather sneakers",
+    "poses": [
+      "walking across the frame with confident natural stride",
+      "pausing mid-step with back pockets visible"
+    ]
+  },
+  {
+    "code": "AWD-05",
+    "name": "ARCHIVE WIDE 05",
+    "color": "light_blue",
+    "fit": "wide",
+    "style": "washed",
+    "path": "assets/products/AWD-05_light_blue_styled.png",
+    "outfit": "butter-yellow short-sleeve linen shirt, sand suede loafers",
+    "poses": [
+      "wide relaxed stance with hands in shirt pockets",
+      "rear three-quarter with one leg extended diagonally"
+    ]
+  },
+  {
+    "code": "AWD-05",
+    "name": "ARCHIVE WIDE 05",
+    "color": "black",
+    "fit": "wide",
+    "style": "washed",
+    "path": "assets/products/AWD-05_black_styled.png",
+    "outfit": "lavender boxy cropped overshirt over white undershirt, white platform sneakers",
+    "poses": [
+      "seated sideways on a cube with one knee slightly lifted",
+      "standing diagonally with one hand brushing hair"
+    ]
+  },
+  {
+    "code": "AWD-05",
+    "name": "ARCHIVE WIDE 05",
+    "color": "dark_indigo",
+    "fit": "wide",
+    "style": "washed",
+    "path": "assets/products/AWD-05_dark_indigo_styled.png",
+    "outfit": "ecru textured cropped cardigan over a dark navy tee, black derby shoes",
+    "poses": [
+      "standing with both hands adjusting cardigan collar",
+      "walking away with a glance over the shoulder"
+    ]
+  },
+  {
+    "code": "GLS-06",
+    "name": "GREY LOOSE 06",
+    "color": "grey",
+    "fit": "loose",
+    "style": "washed",
+    "path": "assets/products/GLS-06_grey_styled.png",
+    "outfit": "cobalt-blue short-sleeve boxy knit shirt, clean white sneakers",
+    "poses": [
+      "seated on a stool with forearms on thighs",
+      "rear three-quarter leaning lightly on studio plinth"
+    ]
+  },
+  {
+    "code": "GLS-06",
+    "name": "GREY LOOSE 06",
+    "color": "dark_indigo",
+    "fit": "loose",
+    "style": "washed",
+    "path": "assets/products/GLS-06_dark_indigo_styled.png",
+    "outfit": "rust utility overshirt over oatmeal tee, tan work boots",
+    "poses": [
+      "standing with sleeves rolled and one hand on waist",
+      "stepping down from a low studio block"
+    ]
+  },
+  {
+    "code": "GLS-06",
+    "name": "GREY LOOSE 06",
+    "color": "washed_blue",
+    "fit": "loose",
+    "style": "washed",
+    "path": "assets/products/GLS-06_washed_blue_styled.png",
+    "outfit": "navy-and-white Breton striped long-sleeve top, burgundy canvas sneakers",
+    "poses": [
+      "walking casually with relaxed arms and head slightly tilted",
+      "standing with back to camera, looking to one side"
+    ]
+  },
+  {
+    "code": "FRX-07",
+    "name": "FADED RELAX 07",
+    "color": "washed_blue",
+    "fit": "relaxed",
+    "style": "washed",
+    "path": "assets/products/FRX-07_washed_blue_styled.png",
+    "outfit": "olive lightweight zip jacket over cream knit tee, gray running shoes",
+    "poses": [
+      "leaning back on a waist-high rail, one leg forward",
+      "rear three-quarter moving hand toward jacket pocket"
+    ]
+  },
+  {
+    "code": "FRX-07",
+    "name": "FADED RELAX 07",
+    "color": "dark_indigo",
+    "fit": "relaxed",
+    "style": "washed",
+    "path": "assets/products/FRX-07_dark_indigo_styled.png",
+    "outfit": "warm-gray waffle long-sleeve tee, tobacco suede desert boots",
+    "poses": [
+      "seated relaxed with ankles apart on a low bench",
+      "rear three-quarter standing with head lowered slightly"
+    ]
+  },
+  {
+    "code": "FLR-08",
+    "name": "70S FLARE 08",
+    "color": "vintage_blue",
+    "fit": "flare",
+    "style": "vintage",
+    "path": "assets/products/FLR-08_vintage_blue_styled.png",
+    "outfit": "chocolate fitted turtleneck knit, brown heeled boots",
+    "poses": [
+      "standing in a confident side-angled pose, one leg extending to show flare",
+      "rear three-quarter walking so flared hems spread naturally"
+    ]
+  },
+  {
+    "code": "FLR-08",
+    "name": "70S FLARE 08",
+    "color": "black",
+    "fit": "flare",
+    "style": "vintage",
+    "path": "assets/products/FLR-08_black_styled.png",
+    "outfit": "dusty-pink satin camp-collar shirt tucked in, black heeled boots",
+    "poses": [
+      "one foot on a small block, torso upright and shirt tucked",
+      "rear three-quarter planted stance, elbows slightly bent"
+    ]
+  },
+  {
+    "code": "BTC-09",
+    "name": "BOOTCUT 09",
+    "color": "dark_indigo",
+    "fit": "bootcut",
+    "style": "clean",
+    "path": "assets/products/BTC-09_dark_indigo_styled.png",
+    "outfit": "forest-green western snap shirt, brown cowboy boots",
+    "poses": [
+      "standing with fingers hooked into front belt loops",
+      "rear three-quarter taking a long step in cowboy boots"
+    ]
+  },
+  {
+    "code": "BTC-09",
+    "name": "BOOTCUT 09",
+    "color": "black",
+    "fit": "bootcut",
+    "style": "clean",
+    "path": "assets/products/BTC-09_black_styled.png",
+    "outfit": "off-white mock-neck fine knit with charcoal cropped blazer, black Chelsea boots",
+    "poses": [
+      "leaning sideways against a stool, hands at jacket lapels",
+      "rear three-quarter turning smoothly with a leg crossed behind"
+    ]
+  },
+  {
+    "code": "CRG-10",
+    "name": "UTILITY CARGO 10",
+    "color": "grey",
+    "fit": "cargo",
+    "style": "washed",
+    "path": "assets/products/CRG-10_grey_styled.png",
+    "outfit": "burnt-orange heavy cotton pocket tee, charcoal hiking sneakers",
+    "poses": [
+      "low-cube seated pose emphasizing cargo thigh pockets",
+      "rear three-quarter with bent knee displaying cargo pocket"
+    ]
+  },
+  {
+    "code": "CRG-10",
+    "name": "UTILITY CARGO 10",
+    "color": "black",
+    "fit": "cargo",
+    "style": "washed",
+    "path": "assets/products/CRG-10_black_styled.png",
+    "outfit": "khaki field jacket over white ribbed tank, olive trail shoes",
+    "poses": [
+      "standing with one foot on a low rock-like studio prop",
+      "rear three-quarter stepping forward with jacket open"
+    ]
+  },
+  {
+    "code": "WST-11",
+    "name": "WIDE STRAIGHT 11",
+    "color": "dark_indigo",
+    "fit": "wide_straight",
+    "style": "clean",
+    "path": "assets/products/WST-11_dark_indigo_styled.png",
+    "outfit": "brick-red cropped cardigan over cream undershirt, black loafers",
+    "poses": [
+      "standing while adjusting cardigan cuff, feet hip-width apart",
+      "rear three-quarter seated on a tall stool with back pockets visible"
+    ]
+  },
+  {
+    "code": "WST-11",
+    "name": "WIDE STRAIGHT 11",
+    "color": "black",
+    "fit": "wide_straight",
+    "style": "clean",
+    "path": "assets/products/WST-11_black_styled.png",
+    "outfit": "sky-blue boxy Oxford shirt half-tucked, white-and-gray retro sneakers",
+    "poses": [
+      "cross-step walking pose with shirt half-tucked",
+      "rear three-quarter holding one hand loosely at waist"
+    ]
+  },
+  {
+    "code": "VTR-12",
+    "name": "VINTAGE RELAX 12",
+    "color": "vintage_blue",
+    "fit": "relaxed",
+    "style": "vintage",
+    "path": "assets/products/VTR-12_vintage_blue_styled.png",
+    "outfit": "mustard short-sleeve knit polo, dark-brown suede loafers",
+    "poses": [
+      "seated facing camera, one foot extended to reveal the relaxed hem",
+      "standing rear three-quarter, arms crossed loosely in front"
+    ]
+  },
+  {
+    "code": "VTR-12",
+    "name": "VINTAGE RELAX 12",
+    "color": "washed_blue",
+    "fit": "relaxed",
+    "style": "vintage",
+    "path": "assets/products/VTR-12_washed_blue_styled.png",
+    "outfit": "soft coral washed-cotton button-down with rolled sleeves, off-white canvas shoes",
+    "poses": [
+      "leaning forearms on a high studio block, full legs visible",
+      "rear three-quarter mid-turn with rolled sleeves"
+    ]
+  },
+  {
+    "code": "VTR-12",
+    "name": "VINTAGE RELAX 12",
+    "color": "dark_indigo",
+    "fit": "relaxed",
+    "style": "vintage",
+    "path": "assets/products/VTR-12_dark_indigo_styled.png",
+    "outfit": "ivory and olive color-block track jacket over charcoal tee, tan retro trainers",
+    "poses": [
+      "standing with one hand at track-jacket zipper, other hand relaxed",
+      "walking away diagonally with head glancing back"
+    ]
+  },
+  {
+    "code": "JPZ-BG-03",
+    "name": "JPZ PANEL BAGGY",
+    "color": "black",
+    "fit": "baggy",
+    "style": "clean",
+    "path": "assets/products/JPZ-BG-03_black_brand_v2.png",
+    "outfit": "ivory cropped zip jacket and white low-profile sneakers",
+    "poses": [
+      "standing three-quarter facing LEFT, gaze to the left, relaxed arm resting near waist",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-BG-04",
+    "name": "JPZ FADED BAGGY",
+    "color": "light_blue",
+    "fit": "baggy",
+    "style": "washed",
+    "path": "assets/products/JPZ-BG-04_light_blue_brand_v2.png",
+    "outfit": "fitted black crew neck tee tucked in and black loafers",
+    "poses": [
+      "standing three-quarter facing RIGHT, looking right, one thumb at belt loop",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WD-02",
+    "name": "JPZ BLACK WIDE",
+    "color": "black",
+    "fit": "wide",
+    "style": "clean",
+    "path": "assets/products/JPZ-WD-02_black_brand_v2.png",
+    "outfit": "sage short sleeve camp collar shirt and white sneakers",
+    "poses": [
+      "front-facing standing naturally, looking into camera with arms relaxed",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WD-03",
+    "name": "JPZ RAW WIDE",
+    "color": "raw_indigo",
+    "fit": "wide",
+    "style": "raw",
+    "path": "assets/products/JPZ-WD-03_raw_indigo_brand_v2.png",
+    "outfit": "burgundy knit polo tucked in and brown leather shoes",
+    "poses": [
+      "walking leftwards in profile, head turned gently left, full legs visible",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WD-04",
+    "name": "JPZ SEAM WIDE",
+    "color": "washed_blue",
+    "fit": "wide",
+    "style": "washed",
+    "path": "assets/products/JPZ-WD-04_washed_blue_brand_v2.png",
+    "outfit": "white fitted tank under open navy overshirt and grey sneakers",
+    "poses": [
+      "walking rightwards in profile, gaze to right, arms moving naturally",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-LS-02",
+    "name": "JPZ EVERYDAY LOOSE",
+    "color": "dark_indigo",
+    "fit": "loose",
+    "style": "clean",
+    "path": "assets/products/JPZ-LS-02_dark_indigo_brand_v2.png",
+    "outfit": "tan cropped suede jacket and black boots",
+    "poses": [
+      "standing with one shoulder leaning lightly against wall, head facing right",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-LS-03",
+    "name": "JPZ SUNFADE LOOSE",
+    "color": "washed_blue",
+    "fit": "loose",
+    "style": "washed",
+    "path": "assets/products/JPZ-LS-03_washed_blue_brand_v2.png",
+    "outfit": "light grey knit tee tucked in and white canvas shoes",
+    "poses": [
+      "front facing with one foot forward, head angled left, hands behind back",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-LS-04",
+    "name": "JPZ UTILITY LOOSE",
+    "color": "grey",
+    "fit": "loose",
+    "style": "washed",
+    "path": "assets/products/JPZ-LS-04_grey_brand_v2.png",
+    "outfit": "navy striped short sleeve tee and brown loafers",
+    "poses": [
+      "standing three-quarter facing LEFT, gaze to the left, relaxed arm resting near waist",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-RX-03",
+    "name": "JPZ RAW RELAX",
+    "color": "raw_indigo",
+    "fit": "relaxed",
+    "style": "raw",
+    "path": "assets/products/JPZ-RX-03_raw_indigo_brand_v2.png",
+    "outfit": "cream linen shirt half tucked and white sneakers",
+    "poses": [
+      "standing three-quarter facing RIGHT, looking right, one thumb at belt loop",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-RX-04",
+    "name": "JPZ BLACK RELAX",
+    "color": "black",
+    "fit": "relaxed",
+    "style": "clean",
+    "path": "assets/products/JPZ-RX-04_black_brand_v2.png",
+    "outfit": "dark charcoal cropped denim jacket and black boots",
+    "poses": [
+      "front-facing standing naturally, looking into camera with arms relaxed",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-ST-02",
+    "name": "JPZ CLEAN STRAIGHT",
+    "color": "black",
+    "fit": "straight",
+    "style": "clean",
+    "path": "assets/products/JPZ-ST-02_black_brand_v2.png",
+    "outfit": "muted olive utility shirt and cream canvas shoes",
+    "poses": [
+      "walking leftwards in profile, head turned gently left, full legs visible",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-ST-03",
+    "name": "JPZ VINTAGE STRAIGHT",
+    "color": "vintage_blue",
+    "fit": "straight",
+    "style": "vintage",
+    "path": "assets/products/JPZ-ST-03_vintage_blue_brand_v2.png",
+    "outfit": "fitted white crew neck tee and navy trainers",
+    "poses": [
+      "walking rightwards in profile, gaze to right, arms moving naturally",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-ST-04",
+    "name": "JPZ SELVEDGE STRAIGHT",
+    "color": "raw_indigo",
+    "fit": "straight",
+    "style": "raw",
+    "path": "assets/products/JPZ-ST-04_raw_indigo_brand_v2.png",
+    "outfit": "rust knit polo tucked in and black shoes",
+    "poses": [
+      "standing with one shoulder leaning lightly against wall, head facing right",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-SK-02",
+    "name": "JPZ INDIGO SKINNY",
+    "color": "dark_indigo",
+    "fit": "skinny",
+    "style": "clean",
+    "path": "assets/products/JPZ-SK-02_dark_indigo_brand_v2.png",
+    "outfit": "powder blue short sleeve shirt and brown boots",
+    "poses": [
+      "front facing with one foot forward, head angled left, hands behind back",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-SK-03",
+    "name": "JPZ FADED SKINNY",
+    "color": "washed_blue",
+    "fit": "skinny",
+    "style": "washed",
+    "path": "assets/products/JPZ-SK-03_washed_blue_brand_v2.png",
+    "outfit": "cropped sand cotton blouson over a fitted white tee and tan desert boots",
+    "poses": [
+      "standing three-quarter facing LEFT, gaze to the left, relaxed arm resting near waist",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-SK-04",
+    "name": "JPZ GREY SKINNY",
+    "color": "grey",
+    "fit": "skinny",
+    "style": "washed",
+    "path": "assets/products/JPZ-SK-04_grey_brand_v2.png",
+    "outfit": "deep teal fitted long sleeve knit with sleeves pushed up and black loafers",
+    "poses": [
+      "standing three-quarter facing RIGHT, looking right, one thumb at belt loop",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-FL-02",
+    "name": "JPZ BLACK FLARE",
+    "color": "black",
+    "fit": "flare",
+    "style": "clean",
+    "path": "assets/products/JPZ-FL-02_black_brand_v2.png",
+    "outfit": "white short sleeve linen henley tucked in and cream low-top sneakers",
+    "poses": [
+      "front-facing standing naturally, looking into camera with arms relaxed",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-FL-03",
+    "name": "JPZ RAW FLARE",
+    "color": "raw_indigo",
+    "fit": "flare",
+    "style": "raw",
+    "path": "assets/products/JPZ-FL-03_raw_indigo_brand_v2.png",
+    "outfit": "fitted chocolate brown ribbed polo and dark brown Chelsea boots",
+    "poses": [
+      "walking leftwards in profile, head turned gently left, full legs visible",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-FL-04",
+    "name": "JPZ SUNSET FLARE",
+    "color": "vintage_blue",
+    "fit": "flare",
+    "style": "vintage",
+    "path": "assets/products/JPZ-FL-04_vintage_blue_brand_v2.png",
+    "outfit": "light blue cropped work jacket over a black tank and black leather sneakers",
+    "poses": [
+      "walking rightwards in profile, gaze to right, arms moving naturally",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-BC-02",
+    "name": "JPZ BLACK BOOTCUT",
+    "color": "black",
+    "fit": "bootcut",
+    "style": "clean",
+    "path": "assets/products/JPZ-BC-02_black_brand_v2.png",
+    "outfit": "fitted charcoal grey mock-neck knit and black lace-up boots",
+    "poses": [
+      "standing with one shoulder leaning lightly against wall, head facing right",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-BC-03",
+    "name": "JPZ INDIGO BOOTCUT",
+    "color": "raw_indigo",
+    "fit": "bootcut",
+    "style": "raw",
+    "path": "assets/products/JPZ-BC-03_raw_indigo_brand_v2.png",
+    "outfit": "ivory vest over a thin light grey tee and muted grey sneakers",
+    "poses": [
+      "front facing with one foot forward, head angled left, hands behind back",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-BC-04",
+    "name": "JPZ FADED BOOTCUT",
+    "color": "vintage_blue",
+    "fit": "bootcut",
+    "style": "vintage",
+    "path": "assets/products/JPZ-BC-04_vintage_blue_brand_v2.png",
+    "outfit": "muted plum short sleeve shirt tucked in and white canvas shoes",
+    "poses": [
+      "standing three-quarter facing LEFT, gaze to the left, relaxed arm resting near waist",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-CG-02",
+    "name": "JPZ BLACK CARGO",
+    "color": "black",
+    "fit": "cargo",
+    "style": "clean",
+    "path": "assets/products/JPZ-CG-02_black_brand_v2.png",
+    "outfit": "cropped olive canvas overshirt over a cream tank and brown suede boots",
+    "poses": [
+      "standing three-quarter facing RIGHT, looking right, one thumb at belt loop",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-CG-03",
+    "name": "JPZ INDIGO CARGO",
+    "color": "dark_indigo",
+    "fit": "cargo",
+    "style": "raw",
+    "path": "assets/products/JPZ-CG-03_dark_indigo_brand_v2.png",
+    "outfit": "sky blue fitted knit polo and black loafers",
+    "poses": [
+      "front-facing standing naturally, looking into camera with arms relaxed",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-CG-04",
+    "name": "JPZ PANEL CARGO",
+    "color": "washed_blue",
+    "fit": "cargo",
+    "style": "washed",
+    "path": "assets/products/JPZ-CG-04_washed_blue_brand_v2.png",
+    "outfit": "stone beige collarless linen shirt tucked in and white trainers",
+    "poses": [
+      "walking leftwards in profile, head turned gently left, full legs visible",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WS-02",
+    "name": "JPZ BLACK WIDE STRAIGHT",
+    "color": "black",
+    "fit": "wide_straight",
+    "style": "clean",
+    "path": "assets/products/JPZ-WS-02_black_brand_v2.png",
+    "outfit": "cream short sleeve bowling shirt with thin navy piping and dark loafers",
+    "poses": [
+      "walking rightwards in profile, gaze to right, arms moving naturally",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WS-03",
+    "name": "JPZ RAW WIDE STRAIGHT",
+    "color": "raw_indigo",
+    "fit": "wide_straight",
+    "style": "raw",
+    "path": "assets/products/JPZ-WS-03_raw_indigo_brand_v2.png",
+    "outfit": "forest green fitted henley tee and sand desert boots",
+    "poses": [
+      "standing with one shoulder leaning lightly against wall, head facing right",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-WS-04",
+    "name": "JPZ WASHED WIDE STRAIGHT",
+    "color": "washed_blue",
+    "fit": "wide_straight",
+    "style": "washed",
+    "path": "assets/products/JPZ-WS-04_washed_blue_brand_v2.png",
+    "outfit": "cropped navy cotton bomber over an ivory tee and dark navy sneakers",
+    "poses": [
+      "front facing with one foot forward, head angled left, hands behind back",
+      "rear three-quarter over opposite shoulder"
+    ]
+  },
+  {
+    "code": "JPZ-X01-01",
+    "name": "JPZ STREET DOCK BAGGY",
+    "color": "vintage_blue",
+    "fit": "baggy",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X01-01_signature_v4.png",
+    "outfit": "cropped ivory bomber with white tee with ivory low profile sneakers",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X01-02",
+    "name": "JPZ CRACKLE BAGGY",
+    "color": "raw_indigo",
+    "fit": "baggy",
+    "style": "raw",
+    "path": "assets/products/JPZ-X01-02_signature_v4.png",
+    "outfit": "fitted forest green knit polo with black leather boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X01-03",
+    "name": "JPZ STITCH RIOT BAGGY",
+    "color": "washed_blue",
+    "fit": "baggy",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X01-03_signature_v4.png",
+    "outfit": "navy short sleeve linen shirt tucked in with ivory low profile sneakers",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X01-04",
+    "name": "JPZ SKATE POCKET BAGGY",
+    "color": "vintage_blue",
+    "fit": "baggy",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X01-04_signature_v4.png",
+    "outfit": "cropped rust work jacket with cream tee with black leather boots",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X01-05",
+    "name": "JPZ FOLDOVER BAGGY",
+    "color": "raw_indigo",
+    "fit": "baggy",
+    "style": "raw",
+    "path": "assets/products/JPZ-X01-05_signature_v4.png",
+    "outfit": "charcoal fitted ribbed tank with ivory low profile sneakers",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X01-06",
+    "name": "JPZ SPRAY BLOCK BAGGY",
+    "color": "light_blue",
+    "fit": "baggy",
+    "style": "washed",
+    "path": "assets/products/JPZ-X01-06_signature_v4.png",
+    "outfit": "light beige half sleeve shirt with black leather boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X02-01",
+    "name": "JPZ SAIL PANEL WIDE",
+    "color": "washed_blue",
+    "fit": "wide",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X02-01_signature_v4.png",
+    "outfit": "fitted forest green knit polo with ivory low profile sneakers",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X02-02",
+    "name": "JPZ ARCH PLEAT WIDE",
+    "color": "vintage_blue",
+    "fit": "wide",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X02-02_signature_v4.png",
+    "outfit": "navy short sleeve linen shirt tucked in with black leather boots",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X02-03",
+    "name": "JPZ OFFSET WAIST WIDE",
+    "color": "washed_blue",
+    "fit": "wide",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X02-03_signature_v4.png",
+    "outfit": "cropped rust work jacket with cream tee with ivory low profile sneakers",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X02-04",
+    "name": "JPZ SHADOW LAYER WIDE",
+    "color": "vintage_blue",
+    "fit": "wide",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X02-04_signature_v4.png",
+    "outfit": "charcoal fitted ribbed tank with black leather boots",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X02-05",
+    "name": "JPZ FAN SEAM WIDE",
+    "color": "raw_indigo",
+    "fit": "wide",
+    "style": "raw",
+    "path": "assets/products/JPZ-X02-05_signature_v4.png",
+    "outfit": "light beige half sleeve shirt with ivory low profile sneakers",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X02-06",
+    "name": "JPZ GALLERY WAVE WIDE",
+    "color": "black",
+    "fit": "wide",
+    "style": "clean",
+    "path": "assets/products/JPZ-X02-06_signature_v4.png",
+    "outfit": "plum cropped cardigan with black tee with black leather boots",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X03-01",
+    "name": "JPZ WORKSHOP LOOSE",
+    "color": "washed_blue",
+    "fit": "loose",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X03-01_signature_v4.png",
+    "outfit": "navy short sleeve linen shirt tucked in with ivory low profile sneakers",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X03-02",
+    "name": "JPZ CONTOUR LOOSE",
+    "color": "vintage_blue",
+    "fit": "loose",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X03-02_signature_v4.png",
+    "outfit": "cropped rust work jacket with cream tee with black leather boots",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X03-03",
+    "name": "JPZ BARREL ARC LOOSE",
+    "color": "raw_indigo",
+    "fit": "loose",
+    "style": "raw",
+    "path": "assets/products/JPZ-X03-03_signature_v4.png",
+    "outfit": "charcoal fitted ribbed tank with ivory low profile sneakers",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X03-04",
+    "name": "JPZ OVERLOCK LOOSE",
+    "color": "washed_blue",
+    "fit": "loose",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X03-04_signature_v4.png",
+    "outfit": "light beige half sleeve shirt with black leather boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X03-05",
+    "name": "JPZ RIVER FADE LOOSE",
+    "color": "vintage_blue",
+    "fit": "loose",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X03-05_signature_v4.png",
+    "outfit": "plum cropped cardigan with black tee with ivory low profile sneakers",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X03-06",
+    "name": "JPZ BIND EDGE LOOSE",
+    "color": "raw_indigo",
+    "fit": "loose",
+    "style": "raw",
+    "path": "assets/products/JPZ-X03-06_signature_v4.png",
+    "outfit": "sky blue fitted knit polo with black leather boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X04-01",
+    "name": "JPZ CAMPUS RELAXED",
+    "color": "washed_blue",
+    "fit": "relaxed",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X04-01_signature_v4.png",
+    "outfit": "cropped rust work jacket with cream tee with ivory low profile sneakers",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X04-02",
+    "name": "JPZ WEEKENDER RELAXED",
+    "color": "washed_blue",
+    "fit": "relaxed",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X04-02_signature_v4.png",
+    "outfit": "charcoal fitted ribbed tank with black leather boots",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X04-03",
+    "name": "JPZ SOFT DART RELAXED",
+    "color": "vintage_blue",
+    "fit": "relaxed",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X04-03_signature_v4.png",
+    "outfit": "light beige half sleeve shirt with ivory low profile sneakers",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X04-04",
+    "name": "JPZ NEEDLE LINE RELAXED",
+    "color": "light_blue",
+    "fit": "relaxed",
+    "style": "washed",
+    "path": "assets/products/JPZ-X04-04_signature_v4.png",
+    "outfit": "plum cropped cardigan with black tee with black leather boots",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X04-05",
+    "name": "JPZ TRAVEL ZIP RELAXED",
+    "color": "raw_indigo",
+    "fit": "relaxed",
+    "style": "raw",
+    "path": "assets/products/JPZ-X04-05_signature_v4.png",
+    "outfit": "sky blue fitted knit polo with ivory low profile sneakers",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X04-06",
+    "name": "JPZ LOOM PATCH RELAXED",
+    "color": "black",
+    "fit": "relaxed",
+    "style": "clean",
+    "path": "assets/products/JPZ-X04-06_signature_v4.png",
+    "outfit": "white sleeveless tee and olive cropped vest with black leather boots",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X05-01",
+    "name": "JPZ SELVEDGE EDGE STRAIGHT",
+    "color": "washed_blue",
+    "fit": "straight",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X05-01_signature_v4.png",
+    "outfit": "charcoal fitted ribbed tank with ivory low profile sneakers",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X05-02",
+    "name": "JPZ DOUBLE COIN STRAIGHT",
+    "color": "light_blue",
+    "fit": "straight",
+    "style": "washed",
+    "path": "assets/products/JPZ-X05-02_signature_v4.png",
+    "outfit": "light beige half sleeve shirt with black leather boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X05-03",
+    "name": "JPZ RAIL LINE STRAIGHT",
+    "color": "washed_blue",
+    "fit": "straight",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X05-03_signature_v4.png",
+    "outfit": "plum cropped cardigan with black tee with ivory low profile sneakers",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X05-04",
+    "name": "JPZ CHECK INSERT STRAIGHT",
+    "color": "vintage_blue",
+    "fit": "straight",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X05-04_signature_v4.png",
+    "outfit": "sky blue fitted knit polo with black leather boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X05-05",
+    "name": "JPZ CHISEL STRAIGHT",
+    "color": "light_blue",
+    "fit": "straight",
+    "style": "washed",
+    "path": "assets/products/JPZ-X05-05_signature_v4.png",
+    "outfit": "white sleeveless tee and olive cropped vest with ivory low profile sneakers",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X05-06",
+    "name": "JPZ SIGNATURE BACK STRAIGHT",
+    "color": "black",
+    "fit": "straight",
+    "style": "clean",
+    "path": "assets/products/JPZ-X05-06_signature_v4.png",
+    "outfit": "black fitted long sleeve mock neck with black leather boots",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X06-01",
+    "name": "JPZ MOTO FLEX SKINNY",
+    "color": "washed_blue",
+    "fit": "skinny",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X06-01_signature_v4.png",
+    "outfit": "cropped black leather biker jacket over fitted white tee, black ankle boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X06-02",
+    "name": "JPZ SLASH ANKLE SKINNY",
+    "color": "vintage_blue",
+    "fit": "skinny",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X06-02_signature_v4.png",
+    "outfit": "fitted navy rib knit crewneck tucked in, polished black Chelsea boots",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X06-03",
+    "name": "JPZ BOND SEAM SKINNY",
+    "color": "raw_indigo",
+    "fit": "skinny",
+    "style": "raw",
+    "path": "assets/products/JPZ-X06-03_signature_v4.png",
+    "outfit": "slim burgundy short sleeve shirt tucked in, black leather sneakers",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X06-04",
+    "name": "JPZ CHAIN TRACE SKINNY",
+    "color": "washed_blue",
+    "fit": "skinny",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X06-04_signature_v4.png",
+    "outfit": "ivory fitted mockneck under cropped charcoal jacket, black boots",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X06-05",
+    "name": "JPZ SPLIT HEM SKINNY",
+    "color": "vintage_blue",
+    "fit": "skinny",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X06-05_signature_v4.png",
+    "outfit": "black cropped denim vest over fitted grey tee, white low profile sneakers",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X06-06",
+    "name": "JPZ SMOKE ETCH SKINNY",
+    "color": "raw_indigo",
+    "fit": "skinny",
+    "style": "raw",
+    "path": "assets/products/JPZ-X06-06_signature_v4.png",
+    "outfit": "deep plum fitted long sleeve knit, charcoal suede boots",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X07-01",
+    "name": "JPZ SUNBURST FLARE",
+    "color": "washed_blue",
+    "fit": "flare",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X07-01_signature_v4.png",
+    "outfit": "ivory short sleeve crochet knit shirt tucked in, tan heeled ankle boots",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X07-02",
+    "name": "JPZ MEADOW FLARE",
+    "color": "light_blue",
+    "fit": "flare",
+    "style": "washed",
+    "path": "assets/products/JPZ-X07-02_signature_v4.png",
+    "outfit": "ochre retro striped fitted knit polo, dark brown boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X07-03",
+    "name": "JPZ STARLIGHT FLARE",
+    "color": "washed_blue",
+    "fit": "flare",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X07-03_signature_v4.png",
+    "outfit": "cropped tan velvet jacket over fitted cream tee, brown boots",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X07-04",
+    "name": "JPZ GODET BLOOM FLARE",
+    "color": "raw_indigo",
+    "fit": "flare",
+    "style": "raw",
+    "path": "assets/products/JPZ-X07-04_signature_v4.png",
+    "outfit": "navy 70s pointed collar shirt tucked in, black heeled boots",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X07-05",
+    "name": "JPZ RETRO SCALLOP FLARE",
+    "color": "black",
+    "fit": "flare",
+    "style": "clean",
+    "path": "assets/products/JPZ-X07-05_signature_v4.png",
+    "outfit": "cream fitted ringer tee with rust collar trim, tan suede shoes",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X07-06",
+    "name": "JPZ FRINGE DUSK FLARE",
+    "color": "light_blue",
+    "fit": "flare",
+    "style": "washed",
+    "path": "assets/products/JPZ-X07-06_signature_v4.png",
+    "outfit": "dusty blue fitted knit cardigan buttoned and tucked in, off-white boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X08-01",
+    "name": "JPZ WESTERN YOKE BOOTCUT",
+    "color": "washed_blue",
+    "fit": "bootcut",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X08-01_signature_v4.png",
+    "outfit": "pale blue chambray western shirt tucked in, tan cowboy boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X08-02",
+    "name": "JPZ BOOT GUARD BOOTCUT",
+    "color": "light_blue",
+    "fit": "bootcut",
+    "style": "washed",
+    "path": "assets/products/JPZ-X08-02_signature_v4.png",
+    "outfit": "cream short sleeve linen western shirt tucked in, black leather boots",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X08-03",
+    "name": "JPZ SADDLE POCKET BOOTCUT",
+    "color": "washed_blue",
+    "fit": "bootcut",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X08-03_signature_v4.png",
+    "outfit": "dark indigo slim western snap shirt tucked in, brown boots",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X08-04",
+    "name": "JPZ DESERT STITCH BOOTCUT",
+    "color": "vintage_blue",
+    "fit": "bootcut",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X08-04_signature_v4.png",
+    "outfit": "brown cropped suede vest over ivory fitted long sleeve tee, dark boots",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X08-05",
+    "name": "JPZ RODEO TAB BOOTCUT",
+    "color": "raw_indigo",
+    "fit": "bootcut",
+    "style": "raw",
+    "path": "assets/products/JPZ-X08-05_signature_v4.png",
+    "outfit": "ochre gingham western shirt tucked in, tan boots",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X08-06",
+    "name": "JPZ TRAIL HEM BOOTCUT",
+    "color": "light_blue",
+    "fit": "bootcut",
+    "style": "washed",
+    "path": "assets/products/JPZ-X08-06_signature_v4.png",
+    "outfit": "cropped burgundy suede bomber over white tee, black cowboy boots",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X09-01",
+    "name": "JPZ TACTICAL CARGO",
+    "color": "washed_blue",
+    "fit": "cargo",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X09-01_signature_v4.png",
+    "outfit": "olive utility vest over fitted black tee, cream trail sneakers",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "JPZ-X09-02",
+    "name": "JPZ FIELD MAP CARGO",
+    "color": "vintage_blue",
+    "fit": "cargo",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X09-02_signature_v4.png",
+    "outfit": "cropped grey technical zip jacket over white tee, black rugged sneakers",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X09-03",
+    "name": "JPZ FLIGHT ZIP CARGO",
+    "color": "washed_blue",
+    "fit": "cargo",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X09-03_signature_v4.png",
+    "outfit": "cream utility overshirt tucked in, charcoal hiking sneakers",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X09-04",
+    "name": "JPZ STACK UTILITY CARGO",
+    "color": "vintage_blue",
+    "fit": "cargo",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X09-04_signature_v4.png",
+    "outfit": "rust short sleeve work shirt tucked in, cream canvas sneakers",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X09-05",
+    "name": "JPZ MODULAR STRAP CARGO",
+    "color": "black",
+    "fit": "cargo",
+    "style": "clean",
+    "path": "assets/products/JPZ-X09-05_signature_v4.png",
+    "outfit": "navy cropped zip vest over grey fitted tee, white trail shoes",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X09-06",
+    "name": "JPZ EXPEDITION CARGO",
+    "color": "raw_indigo",
+    "fit": "cargo",
+    "style": "raw",
+    "path": "assets/products/JPZ-X09-06_signature_v4.png",
+    "outfit": "sage two-pocket short sleeve shirt tucked in, brown utility boots",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X10-01",
+    "name": "JPZ ARCHITECT WIDE STRAIGHT",
+    "color": "washed_blue",
+    "fit": "wide_straight",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X10-01_signature_v4.png",
+    "outfit": "fitted black mockneck tee tucked in, black minimal loafers",
+    "poses": "standing profile left, head looking over shoulder"
+  },
+  {
+    "code": "JPZ-X10-02",
+    "name": "JPZ COLUMN WIDE STRAIGHT",
+    "color": "vintage_blue",
+    "fit": "wide_straight",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X10-02_signature_v4.png",
+    "outfit": "crisp white poplin short sleeve shirt tucked in, brown loafers",
+    "poses": "front standing with one leg forward, head turned right"
+  },
+  {
+    "code": "JPZ-X10-03",
+    "name": "JPZ TILE PATCH WIDE STRAIGHT",
+    "color": "washed_blue",
+    "fit": "wide_straight",
+    "style": "ripped",
+    "path": "assets/products/JPZ-X10-03_signature_v4.png",
+    "outfit": "oatmeal fine knit cardigan buttoned at waist, cream sneakers",
+    "poses": "leaning one shoulder against a plain studio block, looking left"
+  },
+  {
+    "code": "JPZ-X10-04",
+    "name": "JPZ ORIGAMI WIDE STRAIGHT",
+    "color": "vintage_blue",
+    "fit": "wide_straight",
+    "style": "vintage",
+    "path": "assets/products/JPZ-X10-04_signature_v4.png",
+    "outfit": "cropped slate blue jacket over fitted ivory tee, black loafers",
+    "poses": "front facing, gaze straight into camera, arms down"
+  },
+  {
+    "code": "JPZ-X10-05",
+    "name": "JPZ CROSSGRAIN WIDE STRAIGHT",
+    "color": "raw_indigo",
+    "fit": "wide_straight",
+    "style": "raw",
+    "path": "assets/products/JPZ-X10-05_signature_v4.png",
+    "outfit": "fitted pale blue Oxford shirt tucked in, grey suede sneakers",
+    "poses": "three-quarter facing left, looking left, one hand on hip"
+  },
+  {
+    "code": "JPZ-X10-06",
+    "name": "JPZ MONUMENT WIDE STRAIGHT",
+    "color": "black",
+    "fit": "wide_straight",
+    "style": "clean",
+    "path": "assets/products/JPZ-X10-06_signature_v4.png",
+    "outfit": "cropped taupe unstructured blazer over white fitted tee, black shoes",
+    "poses": "walking to the right, head looking right"
+  },
+  {
+    "code": "VBG-01",
+    "name": "VOID BAGGY 01",
+    "color": "black",
+    "fit": "baggy",
+    "style": "clean",
+    "path": "assets/products/VBG-01_black_styled_v1.png",
+    "outfit": "ivory jacket, white tee and white sneakers",
+    "poses": "front standing and rear three-quarter; full garment and fabric detail"
+  }
+]

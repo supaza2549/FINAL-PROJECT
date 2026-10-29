@@ -1,0 +1,2 @@
+Prompt font files from Google Fonts: https://github.com/google/fonts/tree/main/ofl/prompt
+Original font files are unmodified. See OFL.txt for the bundled license.
